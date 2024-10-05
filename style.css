@@ -1,0 +1,11 @@
+body {
+    background: lightcoral;
+    height: 100%;
+    width: 100vw;
+  }
+
+h1 {
+    font-family: Helvetica;
+    margin-left: 45%;
+    margin-top: 15%;
+}
